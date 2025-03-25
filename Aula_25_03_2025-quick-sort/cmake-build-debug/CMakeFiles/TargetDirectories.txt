@@ -1,0 +1,3 @@
+C:/Users/arthu/CLionProjects/Aula_25_03_2025-quick-sort/cmake-build-debug/CMakeFiles/Aula_25_03_2025_quick_sort.dir
+C:/Users/arthu/CLionProjects/Aula_25_03_2025-quick-sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arthu/CLionProjects/Aula_25_03_2025-quick-sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
